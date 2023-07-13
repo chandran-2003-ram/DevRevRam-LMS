@@ -29,7 +29,7 @@ export  var initialState = {
     price: '4.00',
     rating: '4',
     quantity: '5',
-    imageURL: 'https://www.newszii.com/wp-content/uploads/2018/07/Wings-of-Fire-An-Autobiography-of-APJ-Abdul-Kalam2.jpg',
+    imageURL: 'https://cdn.shopclues.com/images/thumbnails/38549/320/320/93484909wingsoffireanautobiography14532936431464857514.jpg',
   },
   {
     title: 'Dust Child Book',
