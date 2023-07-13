@@ -22,7 +22,7 @@ export  var initialState = {
     price: '3.04',
     rating: '2',
     quantity: '5',
-    imageURL: 'https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1675641427i/62800971._UY630_SR1200,630_.jpg',
+    imageURL: 'https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/6817e3ca-35ad-4ed3-be4d-0762cc5c3527_910x1308.png',
   },
   {
     title: 'WINGS OF FIRE',
