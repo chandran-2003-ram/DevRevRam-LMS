@@ -14,7 +14,7 @@ import {
   Input
 } from './Styles';
 
-import book1 from "../images/apj.jpg";
+import book1 from "../images/apj_wings_of_fire.jpg";
 import book2 from "../images/city-under-one-roof-book.png";
 import book3 from "../images/the-world-and-all-that-it-holds-book.png";
 import book4 from "../images/maame-book.png";
